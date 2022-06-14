@@ -291,6 +291,9 @@ DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,zb.com
+# > Clash of Clans
+DOMAIN-SUFFIX,inbox.clashofclans.com
+DOMAIN-SUFFIX,clashofclans.com
 # > Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
