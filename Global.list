@@ -257,6 +257,11 @@ DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bloomberg.de
 DOMAIN-SUFFIX,bloombergview.com
+# > BANK CAPITALONE
+DOMAIN-SUFFIX,m.capitalone.com
+DOMAIN-SUFFIX,m-metrics.capitalone.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-KEYWORD,capitalone
 # > Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
