@@ -123,7 +123,6 @@ DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,search.com
 DOMAIN-SUFFIX,shutterstock.com
-DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,sketchappsources.com
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,smartmailcloud.com
@@ -382,6 +381,8 @@ DOMAIN-SUFFIX,redditstatic.com
 # > Reuters
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
+# > Signal
+DOMAIN-SUFFIX,signal.org
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN,store.steampowered.com
