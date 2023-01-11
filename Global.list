@@ -488,8 +488,13 @@ DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 # ------
 # > Microsoft
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,self.events.data.microsoft.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+
