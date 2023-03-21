@@ -164,7 +164,6 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,voxer.com
 DOMAIN-SUFFIX,vzw.com
 DOMAIN-SUFFIX,twcmobile.weather.com
-DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,welt.de
@@ -359,6 +358,20 @@ DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
+
+# > IBM
+DOMAIN-SUFFIX,appdomain.cloud
+DOMAIN-SUFFIX,bluemix.com
+DOMAIN-SUFFIX,bluemix.net
+DOMAIN-SUFFIX,ibm
+DOMAIN-SUFFIX,ibm.com
+DOMAIN-SUFFIX,ibm.eu
+DOMAIN-SUFFIX,ibm.net
+DOMAIN-SUFFIX,ibm.us
+DOMAIN-SUFFIX,s-bluemix.net
+DOMAIN-SUFFIX,s81c.com
+DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,weatherchannel
 
 # > PayPal
 DOMAIN-SUFFIX,paypal.com
