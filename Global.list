@@ -445,6 +445,10 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
+# > Udemy
+DOMAIN-SUFFIX,udemy.com
+DOMAIN-SUFFIX,udemycdn.com
+DOMAIN-SUFFIX,dcn.branch.io
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
